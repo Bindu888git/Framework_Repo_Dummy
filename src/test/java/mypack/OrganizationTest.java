@@ -12,4 +12,8 @@ public void modifyOrg()
 {
 	System.out.println("modifyOrg1");
 }
+public void deleteOrg()
+{
+	System.out.println("modifyOrg1");
+}
 }

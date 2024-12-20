@@ -65,7 +65,7 @@
     <groupId>org.projectlombok</groupId>
     <artifactId>lombok</artifactId>
     <version>1.16.12</version>
-   
+    
 </dependency>
 
 
@@ -80,7 +80,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-surefire-plugin</artifactId>
-        <version>3.5.2</version>
+        <version>3.11.0</version>
         <configuration>
           <suiteXmlFiles>
             <suiteXmlFile>RT_testng.xml</suiteXmlFile>
@@ -100,7 +100,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-surefire-plugin</artifactId>
-        <version>3.5.2</version>
+        <version>3.11.0</version>
         <configuration>
           <suiteXmlFiles>
             <suiteXmlFile>ST_testng.xml</suiteXmlFile>
